@@ -15,3 +15,5 @@ TODO:
 
 多用户参考：https://github.com/gauseen/gum
 
+
+windows 操作git的一些东西，参考：https://github.com/microsoft/Git-Credential-Manager-for-Windows
